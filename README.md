@@ -1,25 +1,26 @@
 ﻿# challenge_01_tp3
 Aplicación Android desarrollada con Kotlin + Jetpack Compose que replica un diseño de Figma enfocado en la experiencia de autenticación de usuarios.
 
-🚀 Features
-🏠 Pantalla de bienvenida (Home)
-🔐 Login Screen
-📝 Register Screen
-🔁 Navegación entre pantallas
-🧩 Componentes reutilizables (Button, TextField, SocialButton)
-🎨 Theme centralizado (colores, estilos)
-⚡ UI moderna con Jetpack Compose
+## 🚀 Features
+- 🏠 Pantalla de bienvenida (Home)
+- 🔐 Login Screen
+- 📝 Register Screen
+- 🔁 Navegación entre pantallas
+- 🧩 Componentes reutilizables (Button, TextField, SocialButton)
+- 🎨 Theme centralizado (colores, estilos)
+- ⚡ UI moderna con Jetpack Compose
 
 
-🛠️ Tecnologías utilizadas
-Kotlin
-Jetpack Compose
-Material 3
-Navigation Compose
+## 🛠️ Tecnologías utilizadas
+- Kotlin
+- Jetpack Compose
+- Material 3
+- Navigation Compose
 
-🧱 Estructura del proyecto
+## 🧱 Estructura del proyecto
 ui/
- ├── components/
+```
+├── components/
  │    ├── AppButton.kt
  │    ├── AppTextField.kt
  │    └── SocialButton.kt
@@ -34,11 +35,15 @@ ui/
 navigation/
  ├── AppNavGraph.kt
  └── Routes.kt
+```
 
-📸 Screenshots
-<img width="387" height="894" alt="image" src="https://github.com/user-attachments/assets/d780d5ca-5dde-4987-939f-9c0bed291aee" />
-<img width="382" height="888" alt="image" src="https://github.com/user-attachments/assets/0fb4c32e-e6db-40e2-9789-9cb141d51bab" />
-<img width="388" height="894" alt="image" src="https://github.com/user-attachments/assets/4ca496f2-3566-4929-b988-5bba6fabb427" />
+## 📸 Screenshots
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d780d5ca-5dde-4987-939f-9c0bed291aee" width="250"/>
+  <img src="https://github.com/user-attachments/assets/0fb4c32e-e6db-40e2-9789-9cb141d51bab" width="250"/>
+  <img src="https://github.com/user-attachments/assets/4ca496f2-3566-4929-b988-5bba6fabb427" width="250"/>
+</p>
 
 
 
