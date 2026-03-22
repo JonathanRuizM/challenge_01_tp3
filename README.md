@@ -46,7 +46,7 @@ navigation/
 </p>
 
 ## 📦 Download APK
-👉 [Download APK]([https://github.com/tu-usuario/tu-repo/releases](https://github.com/JonathanRuizM/challenge_01_tp3/releases/tag/v1.0))
+👉 [Download APK](https://github.com/JonathanRuizM/challenge_01_tp3/releases)
 
 
  👨‍💻 Autor
