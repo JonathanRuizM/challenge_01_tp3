@@ -45,7 +45,8 @@ navigation/
   <img src="https://github.com/user-attachments/assets/4ca496f2-3566-4929-b988-5bba6fabb427" width="250"/>
 </p>
 
-
+## 📦 Download APK
+👉 [Download APK]([https://github.com/tu-usuario/tu-repo/releases](https://github.com/JonathanRuizM/challenge_01_tp3/releases/tag/v1.0))
 
 
  👨‍💻 Autor
